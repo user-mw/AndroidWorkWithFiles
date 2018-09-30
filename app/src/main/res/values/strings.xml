@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Work with files</string>
+    <string name="download_text">Download</string>
+    <string name="show_text">Show</string>
+    <string name="bad_url_error">Url is wrong</string>
+    <string name="empty_url_error">Url is empty</string>
+    <string name="bad_format_error">Unsupported file extension in url</string>
+    <string name="primary_permission_explanation">To save file, permission must be granted</string>
+    <string name="permission_explanation">You can grant permission in apps settings. Open apps settings?</string>
+    <string name="positive_button_text">Yes</string>
+    <string name="negative_button_text">Cancel</string>
+    <string name="downloading_text">Loading image</string>
+    <string name="permission_not_granted_text">Demanding permission is not granted</string>
+</resources>

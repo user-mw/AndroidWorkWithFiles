@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Работа с файлами</string>
+    <string name="download_text">Загрузить</string>
+    <string name="show_text">Показать</string>
+    <string name="bad_url_error">Задан неверный url</string>
+    <string name="empty_url_error">Задан пустой url</string>
+    <string name="bad_format_error">Неподдерживаемое рассширение файла в url</string>
+    <string name="primary_permission_explanation">Чтобы сохранить файл, требуется дать разрешение</string>
+    <string name="permission_explanation">Вы можете дать разрешение в настройках приложения. Открыть настройки?</string>
+    <string name="positive_button_text">Да</string>
+    <string name="negative_button_text">Отмена</string>
+    <string name="downloading_text">Загрузка изображения</string>
+    <string name="permission_not_granted_text">Нужное разрешение не предоставлено</string>
+</resources>
